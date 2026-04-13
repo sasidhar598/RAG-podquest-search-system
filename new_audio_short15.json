@@ -1,0 +1,24 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "This is Hidden Brain, I'm Shankar Vedantam."
+    },
+    {
+      "start": 4.0,
+      "end": 9.52,
+      "text": "In one of the movie versions of the Oscar Wilde novel, The Picture of Dorian Gray, the actor"
+    },
+    {
+      "start": 9.52,
+      "end": 13.52,
+      "text": "heard Hatfield, stares longingly at a painting of himself."
+    },
+    {
+      "start": 13.52,
+      "end": 15.52,
+      "text": "The picture shows"
+    }
+  ]
+}

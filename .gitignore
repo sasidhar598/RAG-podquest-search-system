@@ -1,0 +1,21 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore system files
+.DS_Store
+
+# Ignore large data directories (optional)
+vector_store/
+transcripts/
+data/
+
+# Ignore any temp or log files
+*.log
+*.tmp
