@@ -1,4 +1,4 @@
-# podquest-harika
+# podquest-Uday
 Problem Statement
 
 Long podcast episodes contain valuable insights, but users can’t quickly locate where a topic is discussed. Manual scrubbing is slow and error-prone. We need a system that makes podcasts semantically searchable and returns timestamped evidence across episodes.
